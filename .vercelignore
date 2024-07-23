@@ -1,0 +1,10 @@
+logs/
+# Ignore large files and directories
+data/
+models/
+*.csv
+*.json
+*.h5
+*.pkl
+logs/
+*.log
