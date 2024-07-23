@@ -20,4 +20,9 @@ logs/
 # Ignore build directories if not needed
 build/
 dist/
+data/
+models/
+logs/
+build/
+
 
