@@ -8,3 +8,16 @@ models/
 *.pkl
 logs/
 *.log
+# Ignore data and model directories
+data/
+models/
+
+# Ignore log and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore build directories if not needed
+build/
+dist/
+
