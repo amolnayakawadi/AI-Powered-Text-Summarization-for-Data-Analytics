@@ -1,28 +1,2 @@
-logs/
-# Ignore large files and directories
-data/
-models/
-*.csv
-*.json
-*.h5
-*.pkl
-logs/
-*.log
-# Ignore data and model directories
-data/
-models/
-
-# Ignore log and temporary files
-logs/
-*.log
-*.tmp
-
-# Ignore build directories if not needed
-build/
-dist/
-data/
-models/
-logs/
-build/
 
 
