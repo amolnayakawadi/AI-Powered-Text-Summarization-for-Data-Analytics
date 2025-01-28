@@ -12,7 +12,7 @@
 8.Update app.py
 
 
-Projec name : Text Summarization 
+Projec name : AI-Powered Text Summarization for Data Analytics : A Comprehensive Approach
 
 Project Overview : 
 Text summarization is a crucial task in natural language processing (NLP) that aims to distill the most important information from a large body of text into a concise summary. This project focuses on developing an automated text summarization system that can effectively generate coherent and informative summaries from lengthy documents.
